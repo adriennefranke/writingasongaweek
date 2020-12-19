@@ -13,4 +13,4 @@ When I first decided to write one song a week for an entire year, I thought it w
 5. More than one song can be written in a week.
 6. A song doesn't need to be written each week exactly, but there must be 52 songs written by December 31, 2021.
 
-## Why am I doing this? [I wrote about that!](https://writingasongaweek.com)
+## Why am I doing this? [I wrote about that!](https://writingasongaweek.com/posts/why)
