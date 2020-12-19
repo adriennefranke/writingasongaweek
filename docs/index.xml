@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrienne Franke</title>
+    <link>https://writingasongaweek.com/</link>
+    <description>Recent content on Adrienne Franke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Dec 2020 17:15:24 -0600</lastBuildDate><atom:link href="https://writingasongaweek.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing a Song a Week: Rules of the Game</title>
+      <link>https://writingasongaweek.com/posts/the-rules/</link>
+      <pubDate>Fri, 18 Dec 2020 17:15:24 -0600</pubDate>
+      
+      <guid>https://writingasongaweek.com/posts/the-rules/</guid>
+      <description>The song must be recorded in some way, but it does not need to be mixed or mastered. The song should be at least 2 minutes long. Ideas, chord progressions, melodies, beats, lyrics, etc can be used even if they were written before 2021. More than one song can be written in a week. A song doesn&amp;rsquo;t need to be written each week exactly, but there must be 52 songs written by December 31, 2021.</description>
+    </item>
+    
+  </channel>
+</rss>
