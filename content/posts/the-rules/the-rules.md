@@ -3,8 +3,9 @@ title: "Writing a Song a Week: Rules of the Game"
 date: 2020-12-18T17:15:24-06:00
 tags: [rules]
 draft: false
+banner: snail_matisse.jpg
 ---
-![The Snail by Henri Matisse](../assets/snail_matisse.jpg)
+<!-- ![The Snail by Henri Matisse](https://github.com/adriennefranke/writingasongaweek/blob/main/assets/snail_matisse.jpg?raw=true) -->
 
 When I first decided to write one song a week for an entire year, I thought it would be good to lay sound basic ground rules. What were the rules that were going to push me to be better and what were the rules that were going to make a bit easier for me to accomplish actually accomplish this goal? I wanted a nice balance. 
 
