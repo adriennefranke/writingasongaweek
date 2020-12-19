@@ -1,0 +1,39 @@
+baseURL = "https://writingasongaweek.com/"
+languageCode = "en-us"
+title = "Adrienne Franke"
+theme = "rocinante"
+paginate = 6
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  favicon = "/icons/favicon.png"
+  mainSections = ["posts", "photos"]
+  email = "adriennefranke@gmail.com"
+  about = """
+I’m writing one song a week in 2021 and I’m writing all about it here 💿
+"""
+
+  [[params.links]]
+    [[params.links.link]]
+      name = "Email"
+      href = "/contact"
+      smart_email_link = true
+
+  [[params.links]]
+    [[params.links.link]]
+      name = "Twitter"
+      href = "https://twitter.com/adriennefranke"
+      new_tab = true
+    [[params.links.link]]
+      name = "Instagram"
+      href = "https://instagram.com/adriennefrankemusic"
+      new_tab = true
+    [[params.links.link]]
+      name = "Github"
+      href = "https://github.com/adriennefranke"
+      new_tab = true
