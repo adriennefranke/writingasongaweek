@@ -21,9 +21,9 @@ I’m writing one song a week in 2021 and I’m writing all about it here 💿
 
   [[params.links]]
     [[params.links.link]]
-      name = "Email"
-      href = "/contact"
-      smart_email_link = true
+     name = 'Subscribe for email updates'
+     href = "https://tinyletter.com/writingasongaweek"
+     new_tab = true 
 
   [[params.links]]
     [[params.links.link]]
