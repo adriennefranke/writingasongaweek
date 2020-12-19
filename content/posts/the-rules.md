@@ -3,11 +3,8 @@ title: "Writing a Song a Week: Rules of the Game"
 date: 2020-12-18T17:15:24-06:00
 tags: [rules]
 draft: false
-banner: snail_matisse.jpg
 ---
-<!-- ![The Snail by Henri Matisse](https://github.com/adriennefranke/writingasongaweek/blob/main/assets/snail_matisse.jpg?raw=true) -->
-
-When I first decided to write one song a week for an entire year, I thought it would be good to lay sound basic ground rules. What were the rules that were going to push me to be better and what were the rules that were going to make a bit easier for me to accomplish actually accomplish this goal? I wanted a nice balance. 
+When I first decided to write one song a week for an entire year, I thought it would be good to lay down some basic rules. *What will push me to be better and what will make it easier for me to accomplish this goal?* I wanted a nice balance.
 
 1. The song must be recorded in some way, but it does not need to be mixed or mastered.
 2. The song should be at least 2 minutes long.
@@ -16,4 +13,4 @@ When I first decided to write one song a week for an entire year, I thought it w
 5. More than one song can be written in a week.
 6. A song doesn't need to be written each week exactly, but there must be 52 songs written by December 31, 2021.
 
-# Why?
+## Why am I doing this? [I wrote about that!](https://writingasongaweek.com)
