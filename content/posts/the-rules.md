@@ -4,7 +4,7 @@ date: 2020-12-18T17:15:24-06:00
 tags: [rules]
 draft: false
 ---
-When I first decided to write one song a week for an entire year, I thought it would be good to lay down some basic rules. *What will push me to be better and what will make it easier for me to accomplish this goal?* I wanted a nice balance.
+I think it's a good idea to lay down some basic rules here. *What will push me to be better and what will make it easier for me to accomplish this goal?* I want a nice balance.
 
 1. The song must be recorded in some way, but it does not need to be mixed or mastered.
 2. The song should be at least 2 minutes long.
