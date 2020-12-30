@@ -20,4 +20,4 @@ If I write 52 songs, there's bound to be a few good ones in the mix. Lately, I'v
 
 * * *
 
-If you'd like to keep up with this project, [sign up for my email newsletter](https://tinyletter.com/writingasongaweek). I send updates occasionally, but not enough to overwhelm your inbox!
+If you'd like to keep up with this project, [subscribe for email updates](https://tinyletter.com/writingasongaweek). I send the updates occasionally, but not enough to overwhelm your inbox!
