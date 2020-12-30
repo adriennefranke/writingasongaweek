@@ -1,10 +1,10 @@
 # writingasongaweek.com
 
-# To start the server locally
+## To start the server locally
     $ hugo server
 
-# To create a new post
+## To create a new post
     $ hugo new posts/blog-post.md
 
-# To build website
+## To build website
     $ hugo
