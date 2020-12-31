@@ -1,5 +1,5 @@
 ---
-title: "2021 Epochs + Rewards"
+title: "2021 Epochs"
 date: 2020-12-31T09:43:01-06:00
 tags: [the challenge]
 draft: false
