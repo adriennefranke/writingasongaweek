@@ -38,3 +38,10 @@ I’m writing one song a week in 2021 and I’m posting all about it here 💿 0
       name = "Github"
       href = "https://github.com/adriennefranke"
       new_tab = true
+
+[imaging]
+quality = 100
+
+[imaging.exif]
+includeFields = ""
+disableLatLong = true
