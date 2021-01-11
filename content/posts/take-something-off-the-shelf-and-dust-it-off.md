@@ -13,7 +13,7 @@ I currently have around 20 unfinished songs. [(Yes, these song snippets are fair
 ## Tracking My Time
 I'm trying something out with this where I keep track of what I'm working on and how much time I spend. When I start working on a session I "clock in" with what instrument I'm working on and then "clock out" when I'm finished. Since it's early days, I just have a simple report of how much time I spent this week, so it's not much, but it is interesting! I did not feel like I spent over 3 hours working on a few basslines, but the data doesn't lie. It looks like I spent about 1 hour a day on songwriting. Not too much of a time commitment so far.
 
-![bassline: 3h 14m, chords: 33m, guitar: 1h 57m, synth: 52m. total time: 6h 36m.](../../assets/week01.jpg)
+![bassline: 3h 14m, chords: 33m, guitar: 1h 57m, synth: 52m. total time: 6h 36m.](https://github.com/adriennefranke/writingasongaweek/blob/main/assets/week01.jpg?raw=true)
 
 * * *
 
