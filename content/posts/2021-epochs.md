@@ -10,8 +10,8 @@ I'll be sure to keep this table up to date with my progress.
 
 | **Week**  | **Start Date** | **End Date** | **Finished Song** |
 |--|--|--|--|
-|Week 01|January 4, 2021|January 10, 2021| Untitled - The Feature |
-|Week 02|January 11, 2021|January 17, 2021| |
+|Week 01|January 4, 2021|January 10, 2021| Space Freeway by The Feature |
+|Week 02|January 11, 2021|January 17, 2021| [Stuck by Adrienne Franke](https://adriennefranke.bandcamp.com/track/stuck-demo) |
 |Week 03|January 18, 2021|January 24, 2021| |
 |Week 04|January 25, 2021|January 31, 2021|
 |Week 05|February 1, 2021|February 7, 2021|
