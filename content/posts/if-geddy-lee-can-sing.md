@@ -17,6 +17,24 @@ Whenever I get anxious or self conscious about singing, I just think of Geddy Le
 ## Letting Things (Music, Art) Go
 When I wrote the bridge of this song, I had this vision that it would be a growing cascade of layered synths, guitar parts, oohs & ahhs, etc. I wanted it to be big with lots of components and panning, covering the full range of frequencies. Lots of delay, chorus and reverb. Well, that didn't happen. I ran out of steam and lost interest. I've let go of that idea for now. I may come back to it if I ever re-record this song, but I may not. You don't have to run with every single idea you have and you're allowed to scrap things before you even start them. There are no rules.
 
+## Time Spent This Week
+
+I'm still using a time tracker. Surprised that I spent over 3 hours mixing! It didn't feel like it.
+
+```
+Sun 10 January 2021 -> Sun 17 January 2021
+songwriting - 8h 05m 23s
+        [arranging     13m 21s]
+        [bassline     21m 20s]
+        [guitar  1h 00m 56s]
+        [lyrics     44m 19s]
+        [mixing  3h 20m 45s]
+        [synth     44m 16s]
+        [vocals  1h 40m 26s]
+
+Total: 8h 05m 23s
+```
+
 * * *
 
-If you'd like to keep up with this project, [subscribe for email updates](https://tinyletter.com/writingasongaweek). I send the updates occasionally, but not enough to overwhelm your inbox!
+If you'd like to keep up with this project, [subscribe for email updates](https://tinyletter.com/writingasongaweek). I send the updates occasionally, but not enough to overwhelm your inbox! If you'd like a list of all the songs I've written so far, [here's a link](https://writingasongaweek.com/posts/2021-epochs/)!

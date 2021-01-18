@@ -67,4 +67,4 @@ Because I know habits are cemented if there's some type of reward, ✨reward wee
 
 * * *
 
-If you'd like to keep up with this project, [subscribe for email updates](https://tinyletter.com/writingasongaweek). I send the updates occasionally, but not enough to overwhelm your inbox!
+If you'd like to keep up with this project, [subscribe for email updates](https://tinyletter.com/writingasongaweek). I send the updates occasionally, but not enough to overwhelm your inbox! If you'd like a list of all the songs I've written so far, [here's a link](https://writingasongaweek.com/posts/2021-epochs/)!
