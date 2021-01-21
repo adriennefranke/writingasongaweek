@@ -1,7 +1,7 @@
 baseURL = "https://writingasongaweek.com/"
 languageCode = "en-us"
 title = "Adrienne Franke"
-theme = "rocinante"
+theme = ["rocinante", "plausible-hugo"]
 paginate = 6
 publishDir = "docs"
 
@@ -45,3 +45,7 @@ quality = 100
 [imaging.exif]
 includeFields = ""
 disableLatLong = true
+
+[params.plausible]
+  enable = true  # Whether to enable plausible tracking
+  domain = "writingasongaweek.com"  # Plausible "domain" name/id in your dashboard
