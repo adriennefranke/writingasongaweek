@@ -27,6 +27,10 @@ I’m writing one song a week in 2021 and I’m posting all about it here 💿 2
 
   [[params.links]]
     [[params.links.link]]
+      name = "Bandcamp"
+      href = "https://adriennefranke.bandcamp.com/"
+      new_tab = true
+    [[params.links.link]]
       name = "Twitter"
       href = "https://twitter.com/adriennefranke"
       new_tab = true
