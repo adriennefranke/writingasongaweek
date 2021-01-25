@@ -1,8 +1,8 @@
 ---
-title: "Another Week of Pushing Through and Learning Things"
+title: "Another Week of Pressing Forward and Learning Things"
 date: 2021-01-24T11:36:52-06:00
 tags: [songwriting]
-draft: true
+draft: false
 ---
 
 Considering I spent over 10 hours writing, this week was definitely the most challenging so far. I’ve mostly been working through a backlog of songs so I’m [not starting from scratch every time.](http://localhost:1313/posts/take-something-off-the-shelf-and-dust-it-off/#removing-obstacles) But the main issue this week was that the snippet I had recorded previously was incredibly out of time so I had to re-record a lot of parts to make it all fit together. And it’s still not perfect.
@@ -17,7 +17,8 @@ You don’t have to use this! Remember - there are no rules. Typically what I do
 ## You Should Know How Effects Work
 Recently, an audio engineer friend of mine suggested that I add a compressor to one of my bass tracks. I generally understand what a compressor does in concept, but when I actually had to go use one, I was at a total loss. (Writing music is a lot different than mixing it.) For the time being I used one of the settings in Logic and made a mental note to actually learn how to use one of these things later. One of my goals for this year is to become better at mixing and I’m going to need to deeply understand these tools if I want to accomplish that.
 
-
+![Logic Compressor](https://github.com/adriennefranke/writingasongaweek/blob/main/assets/logic_compressor.jpg?raw=true)
+A compressor in Logic. Lots to look at and work with here.
 
 ## Other Lessons From This Week
 * Always record to a metronome, even if you’re just getting the idea down
