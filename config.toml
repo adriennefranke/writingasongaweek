@@ -16,7 +16,7 @@ publishDir = "docs"
   mainSections = ["posts", "photos"]
   email = "adriennefranke@gmail.com"
   about = """
-I’m writing one song a week in 2021 and I’m posting all about it here 💿 2/52
+I’m writing one song a week in 2021 and I’m posting all about it here 💿 3/52
 """
 
   [[params.links]]
