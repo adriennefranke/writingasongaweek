@@ -1,8 +1,8 @@
 ---
 title: "Announcing The Feature"
-date: 2021-02-01T07:40:35-06:00
+date: 2021-01-31T07:40:35-06:00
 tags: [songwriting, the feature]
-draft: true
+draft: false
 ---
 
 I’m really excited to announce a new project with a long time collaborator and great friend of mine, [Eve Maret](https://www.evemaret.com/). We’ve been making music together for about 10 years now! From high school jazz band to an angsty punk rock band to now, our work together has spanned genres and we’ve had a ton of fun doing it.
@@ -13,10 +13,10 @@ Our new project, [The Feature](https://thefeaturemusic.bandcamp.com/), combines 
 
 Our first song Space Freeway will be released on February 12th and we’re so excited to share. Here’s the artwork I created and Eve edited.
 
-
+![Space Freeway by The Feature](https://github.com/adriennefranke/writingasongaweek/blob/main/assets/space_freeway.jpg?raw=true)
 ## Writing During a Pandemic
 
-The song I wrote for Week 04 is potentially going to be another song for The Feature, which is why I can’t share much about it just yet. It’s been different to collaborate with someone remotely and it takes longer to finish a song when you can’t get into the studio and there’s nothing wrong with that! I am respecting the process that is creating music with someone while we’re in a pandemic. We exchange notes about the direction we want the song to head in, we take advice of the other seriously, and speak out when something just doesn’t work. We aren’t indecisive about things. It can be challenging to not have immediate feedback, but I just remember that this is a totally different way of creating. It’s much harder to feed off of each other and we can’t jam to get ideas out. That being said, creative constraints can result in something really awesome. I think you’ll like what we’ve created.
+[The song I wrote for Week 04](https://writingasongaweek.com/posts/2021-epochs/) is potentially going to be another song for The Feature, which is why I can’t share much about it just yet. It’s been different to collaborate with someone remotely and it takes longer to finish a song when you can’t get into the studio and there’s nothing wrong with that! I am respecting the process that is creating music with someone while we’re in a pandemic. We exchange notes about the direction we want the song to head in, we take advice of the other seriously, and speak out when something just doesn’t work. We aren’t indecisive about things. It can be challenging to not have immediate feedback, but I just remember that this is a totally different way of creating. It’s much harder to feed off of each other and we can’t jam to get ideas out. That being said, creative constraints can result in something really awesome. I think you’ll like what we’ve created.
 
 * * *
 
