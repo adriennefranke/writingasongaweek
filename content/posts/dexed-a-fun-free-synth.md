@@ -2,7 +2,7 @@
 title: "Dexed: A Fun, Free Synth"
 date: 2021-02-09T20:47:12-06:00
 tags: [songwriting]
-draft: false
+draft: true
 ---
 
 ![Dexed](https://github.com/adriennefranke/writingasongaweek/blob/main/assets/dexed.jpg?raw=true)
